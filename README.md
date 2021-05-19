@@ -1,0 +1,2 @@
+# dbSubscriber
+subscribe dbsync 
